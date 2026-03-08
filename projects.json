@@ -1,0 +1,171 @@
+{
+  "featuredProjects": [
+    {
+      "title": "Workflow",
+      "subtitle": "Team Collaboration Platform",
+      "year": "2025",
+      "sector": "Full-Stack",
+      "responsibility": "Development, UI/UX, Architecture",
+      "impact": "Real-time team management and task tracking",
+      "tech": ["Next.js", "Prisma", "PostgreSQL", "TypeScript", "Tailwind CSS"],
+      "description": "A comprehensive team collaboration and project management platform featuring real-time task tracking, kanban boards, and team management. Built with modern technologies to streamline workflow and boost productivity for teams of all sizes.",
+      "features": [
+        "Drag-and-drop Kanban boards",
+        "Real-time collaboration and updates",
+        "Team management with role-based permissions",
+        "Smart task tracking with priorities and due dates",
+        "Activity feed and @mentions"
+      ],
+      "images": [
+        "/assets/workflow1.png",
+        "/assets/workflow2.png",
+        "/assets/workflow3.png",
+        "/assets/workflow4.png"
+      ],
+      "live": "https://workflow-tawny.vercel.app/",
+      "github": "https://github.com/ziadayman00/workflow",
+      "comingSoon": false,
+      "inProgress": true
+    },
+    {
+      "title": "Listed",
+      "subtitle": "AI-Powered Task Management",
+      "year": "2025",
+      "sector": "Full-Stack",
+      "responsibility": "Development, UI/UX, Architecture",
+      "impact": "Serving 1000+ daily users",
+      "tech": ["Next.js", "Prisma", "PostgreSQL", "Supabase"],
+      "description": "Full stack task management system with intelligent task creation through natural language processing. Features dual task creation methods, suggestion engine, and comprehensive admin panel with advanced analytics.",
+      "features": [
+        "Conversational chat interface",
+        "Task management system",
+        "Real-time analytics dashboard",
+        "NextAuth secure authentication",
+        "Scalable Prisma ORM architecture"
+      ],
+      "images": [
+        "/assets/listed1.png",
+        "/assets/listed2.png",
+        "/assets/listed3.png",
+        "/assets/listed4.png",
+        "/assets/listed5.png",
+        "/assets/listed6.png",
+        "/assets/listed7.png",
+        "/assets/listed8.png"
+      ],
+      "live": "#",
+      "github": "https://github.com/ziadayman00/listed",
+      "comingSoon": false,
+      "inProgress": true
+    },
+    {
+      "title": "Skillify",
+      "subtitle": "Video Learning Platform",
+      "year": "2025",
+      "sector": "Full-Stack",
+      "responsibility": "Development, UI/UX, Database Design",
+      "impact": "Premium course platform with lifetime access",
+      "tech": ["Next.js", "Prisma", "PostgreSQL", "TypeScript"],
+      "description": "A comprehensive video learning platform offering expert-led courses across multiple categories. Features premium HD video quality, downloadable resources, hands-on projects, and shareable certificates. Students can learn at their own pace with lifetime access to all course materials.",
+      "features": [
+        "Video course management system",
+        "User authentication and enrollment",
+        "Certificate generation and sharing",
+        "Course categorization and search",
+        "Lifetime access with updates included"
+      ],
+      "images": [
+        "/assets/skillify1.png",
+        "/assets/skillify2.png",
+        "/assets/skillify3.png",
+        "/assets/skillify4.png",
+        "/assets/skillify5.png",
+        "/assets/skillify6.png"
+      ],
+      "live": "https://learning-platform-dbdw.vercel.app",
+      "github": "https://github.com/ziadayman00/learning-platform",
+      "comingSoon": false,
+      "inProgress": true
+    }
+  ],
+  "webProjects": [
+    {
+      "title": "Svelt",
+      "subtitle": "Modern Fashion E-commerce",
+      "year": "2025",
+      "sector": "E-commerce",
+      "tech": ["React", "Tailwind CSS"],
+      "description": "High-end fashion store with elegant UI and seamless shopping experience.",
+      "images": ["/assets/svelt.png"],
+      "live": "https://svelt-one.vercel.app",
+      "github": "https://github.com/ziadayman00/svelt",
+      "comingSoon": false,
+      "inProgress": false
+    },
+    {
+      "title": "FitRush",
+      "subtitle": "Fitness Brand Website",
+      "year": "2025",
+      "sector": "Health & Fitness",
+      "tech": ["React", "Tailwind CSS"],
+      "description": "Dynamic fitness website with modern design and responsive layout.",
+      "images": ["/assets/fitrush.png"],
+      "live": "https://fit-rush.vercel.app",
+      "github": "#",
+      "comingSoon": false,
+      "inProgress": false
+    },
+    {
+      "title": "Techy",
+      "subtitle": "Software Company Landing",
+      "year": "2025",
+      "sector": "Technology",
+      "tech": ["React", "Tailwind CSS"],
+      "description": "Professional landing page showcasing services and solutions.",
+      "images": ["/assets/techy.png"],
+      "live": "https://techy-zeta.vercel.app",
+      "github": "#",
+      "comingSoon": false,
+      "inProgress": false
+    },
+    {
+      "title": "Furni",
+      "subtitle": "Furniture Store Platform",
+      "year": "2024",
+      "sector": "E-commerce",
+      "tech": ["React", "Bootstrap", "CSS"],
+      "description": "Performance-optimized furniture store with smooth navigation.",
+      "images": ["/assets/furni.png"],
+      "live": "https://furni-pearl-two.vercel.app",
+      "github": "https://github.com/ziadayman00/furni",
+      "comingSoon": false,
+      "inProgress": false
+    },
+    {
+      "title": "LaslessVPN",
+      "subtitle": "VPN Service Landing",
+      "year": "2025",
+      "sector": "Technology",
+      "tech": ["React", "Tailwind CSS", "Figma"],
+      "description": "Modern VPN landing page with clean design.",
+      "images": ["/assets/LaslessVPN.png"],
+      "live": "https://lasless-vpn-chi.vercel.app/",
+      "github": "#",
+      "comingSoon": false,
+      "inProgress": false
+    },
+    {
+      "title": "Anti-phishing",
+      "subtitle": "Security Detection Tool",
+      "year": "2025",
+      "sector": "Cybersecurity",
+      "tech": ["React", "Tailwind CSS", "ML"],
+      "description": "Graduation project for detecting phishing websites using machine learning.",
+      "images": ["/assets/anti.png"],
+      "live": "#",
+      "github": "#",
+      "comingSoon": true,
+      "inProgress": false
+    }
+  ]
+}
