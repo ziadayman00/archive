@@ -10,12 +10,13 @@ interface Note {
   body: string;
   tags: string[];
   slug: string;
-  createdAt: string | Date;
+  createdAt: string | Date | null;
 }
 
 const MONO = "var(--font-mono, monospace)";
 
-function formatDate(d: string | Date) {
+function formatDate(d: string | Date | null) {
+  if (!d) return "—";
   return new Date(d).toLocaleDateString("en-GB", {
     day: "2-digit", month: "long", year: "numeric",
   });
